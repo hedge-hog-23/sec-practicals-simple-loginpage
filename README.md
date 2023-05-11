@@ -12,10 +12,11 @@ just prompts the user to enter username,password then validate pannum ada avlo t
 
 files:
 
-3 files iruku
+3+1 files iruku
 1) connection.php for database connectivity
 2) login1.php idu fields validation ku. anga $count == 1 ula just header("home.html") matum kudtha pothum session theva illa.
 3)login.php - normal html structure for login page
+4)stubhome.php - login ana piragu it pops up .with your username.
 
 
 backend:
