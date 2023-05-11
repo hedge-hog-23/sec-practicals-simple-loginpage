@@ -14,8 +14,7 @@ files:
 
 3 files iruku
 1) connection.php for database connectivity
-2) login1.php idu fields validation ku.
-  anga $count == 1 ula just header("home.html") matum kudtha pothum session theva illa.
+2) login1.php idu fields validation ku. anga $count == 1 ula just header("home.html") matum kudtha pothum session theva illa.
 3)login.php - normal html structure for login page
 
 
