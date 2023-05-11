@@ -13,7 +13,7 @@ session_start();
            // $_SESSION['user']=$row['user'];
             session_start();
             $_SESSION['authenticated'] = true;
-            header("Location: home.php");
+            header("Location: stubhome.php");
             $_SESSION['authenticated'] = true;
             
             $_SESSION['user'] = $username;
